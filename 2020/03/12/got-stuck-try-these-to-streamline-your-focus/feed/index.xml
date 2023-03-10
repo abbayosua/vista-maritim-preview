@@ -3,14 +3,14 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+
 	>
 <channel>
 	<title>
 	Comments on: Got Stuck? Try These To Streamline Your Focus	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
+	<description>YacthMaker</description>
 	<lastBuildDate>Thu, 12 Mar 2020 16:51:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
